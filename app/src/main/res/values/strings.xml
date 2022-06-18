@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Api test</string>
+    <string name="discord">Discord</string>
+    <string name="rank">Rank</string>
+</resources>
