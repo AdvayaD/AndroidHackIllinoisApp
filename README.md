@@ -1,6 +1,6 @@
 # AndroidHackIllinoisApp
 
-The android app displays a scrollable leaderboard that contains the user's rank, discord id and score. The data is  using an API with the help of Retrofit.
+The android app displays a scrollable leaderboard that contains the user's rank, discord id and score. The data is retrieved using an API with the help of Retrofit.
 
 ## Language 
 Kotlin
